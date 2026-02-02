@@ -1,0 +1,13 @@
+# Flutter Configuration
+
+# This file disables Windows platform for development to avoid network issues
+
+# Run flutter with this to skip Windows:
+
+# flutter config --no-enable-windows
+
+# Or run directly for specific platform:
+
+# flutter run -d chrome (for web)
+
+# flutter run -d android (for android emulator)
