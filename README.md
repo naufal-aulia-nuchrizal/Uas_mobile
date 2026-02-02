@@ -7,6 +7,8 @@
 - Mochammad andwi haikal 23552011011
 
 ## Getting Started
+Link Video Demo
+https://drive.google.com/drive/folders/13-JosSCGwwQGkWWYZYPlGQnF9n8xi_dV
 
 <img src="https://github.com/naufal-aulia-nuchrizal/Uas_mobile/blob/main/1.jpg" alt="Home Screen" width="300"/>
 <img src="https://github.com/naufal-aulia-nuchrizal/Uas_mobile/blob/main/2.jpg" alt="Home Screen" width="300"/>
