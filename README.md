@@ -3,4 +3,4 @@
 
 ## Getting Started
 
-<img src="" alt="Home Screen" width="300"/>
+<img src="https://github.com/naufal-aulia-nuchrizal/Uas_mobile/blob/main/1.jpg" alt="Home Screen" width="300"/>
