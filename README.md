@@ -3,3 +3,4 @@
 
 ## Getting Started
 
+<img src="" alt="Home Screen" width="300"/>
